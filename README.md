@@ -28,7 +28,7 @@ Before running this application, ensure you have the following:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/yourusername/ai-enhanced-image-generation.git
+    git clone https://github.com/GirishWangikar/Text-To-Image-Generator
     cd ai-enhanced-image-generation
     ```
 
