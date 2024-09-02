@@ -1,0 +1,15 @@
+huggingface_hub
+requests
+gradio_client
+Pillow
+requests
+langchain
+langchain-community
+langchain-groq
+torch
+accelerate
+diffusers
+torch
+transformers==4.42.4
+xformers
+sentencepiece
