@@ -67,4 +67,9 @@ Before running this application, ensure you have the following:
    - Use the provided examples for inspiration and see the potential of AI-enhanced image generation.
 
 
+## Contact
+
+Created by [Girish Wangikar](https://www.linkedin.com/in/girish-wangikar/)
+
+Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/)
 
