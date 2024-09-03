@@ -1,5 +1,7 @@
 # AI-Enhanced Image Generation
 
+To know more, check out my blog - [Crafting Visual Masterpieces: AI’s Creative Revolution](https://medium.com/@girishwangikar/crafting-visual-masterpieces-ais-creative-revolution-c6a7a21d86a4)
+
 This project demonstrates an AI-enhanced image generation application using Gradio, Hugging Face, and LangChain. It allows users to input a simple prompt, which is then expanded into a detailed description using a language model, and finally used to generate an image.
 
 ## Features
@@ -71,5 +73,6 @@ Before running this application, ensure you have the following:
 
 Created by [Girish Wangikar](https://www.linkedin.com/in/girish-wangikar/)
 
-Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/)
+Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/) | [Technical Blog - Medium](https://medium.com/@girishwangikar/crafting-visual-masterpieces-ais-creative-revolution-c6a7a21d86a4)
+
 
